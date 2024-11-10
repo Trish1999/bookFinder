@@ -35,10 +35,10 @@ components/: Optional folder for breaking down UI into reusable components.
 API Reference
 This app uses the Open Library Search API to fetch book data. Example of a search URL:
 
-https://openlibrary.org/search.json?title={searchTerm}
+### https://openlibrary.org/search.json?title={searchTerm}
 Where searchTerm is the title of the book you're searching for.
 
-Technologies Used
+## Technologies Used
 React: A JavaScript library for building user interfaces.
 
 Open Library API: An open source API for accessing book data.
